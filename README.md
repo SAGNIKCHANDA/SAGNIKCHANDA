@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sagnik Chanda.
+- 👀 I’m interested in theoritical physics
+- 🌱 I’m currently learning Quantum Mechanics
+- 📫 sagnikchanda007@gmail.com
